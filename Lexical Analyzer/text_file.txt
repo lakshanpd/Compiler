@@ -1,0 +1,3 @@
+def cal(x, y):
+	var_1 = x+  y
+	var_2 = x-  y  // this is a comment
